@@ -5,7 +5,6 @@
 	required = true
 [user]
 	email = ester.asso2@gmail.com
-	name = Ester Asso
 [core]
 	editor = notepad
 [alias]
