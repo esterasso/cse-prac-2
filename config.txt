@@ -1,0 +1,15 @@
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[user]
+	email = ester.asso2@gmail.com
+	name = Ester Asso
+[core]
+	editor = notepad
+[alias]
+	co = checkout
+	c = commit
+	a = add
+	s = status
