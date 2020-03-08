@@ -12,3 +12,5 @@
 	c = commit
 	a = add
 	s = status
+
+.pytype/pytype static type analyzer
